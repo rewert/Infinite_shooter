@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: da50bfa4b6d9b8e4eb16f55fbb0b1e8a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Spowith_f1_camel
+    100004: Spowith_f1_camel_cauda
+    100006: Spowith_f1_camel_D1
+    100008: Spowith_f1_camel_D2
+    100010: Spowith_f1_camel_E1
+    100012: Spowith_f1_camel_E2
+    100014: Spowith_f1_camel_helix
+    100016: Spowith_f1_camel_leme
+    100018: Spowith_f1_camel_Roda
+    100020: Spowith_f1_camel_Roda_
+    100022: Spowith_f1_camel_vidro
+    400000: //RootNode
+    400002: Spowith_f1_camel
+    400004: Spowith_f1_camel_cauda
+    400006: Spowith_f1_camel_D1
+    400008: Spowith_f1_camel_D2
+    400010: Spowith_f1_camel_E1
+    400012: Spowith_f1_camel_E2
+    400014: Spowith_f1_camel_helix
+    400016: Spowith_f1_camel_leme
+    400018: Spowith_f1_camel_Roda
+    400020: Spowith_f1_camel_Roda_
+    400022: Spowith_f1_camel_vidro
+    2100000: Spowith_f1_camelMat
+    2100002: Spowith_f1_camel_caudaMat
+    2100004: Spowith_f1_camel_D1Mat
+    2100006: Spowith_f1_camel_D2Mat
+    2100008: Spowith_f1_camel_E1Mat
+    2100010: Spowith_f1_camel_E2Mat
+    2100012: Spowith_f1_camel_helixMat
+    2100014: Spowith_f1_camel_lemeMat
+    2100016: Spowith_f1_camel_RodaMat
+    2100018: Spowith_f1_camel_Roda_Mat
+    2100020: Spowith_f1_camel_vidroMat
+    2300000: Spowith_f1_camel
+    2300002: Spowith_f1_camel_cauda
+    2300004: Spowith_f1_camel_D1
+    2300006: Spowith_f1_camel_D2
+    2300008: Spowith_f1_camel_E1
+    2300010: Spowith_f1_camel_E2
+    2300012: Spowith_f1_camel_helix
+    2300014: Spowith_f1_camel_leme
+    2300016: Spowith_f1_camel_Roda
+    2300018: Spowith_f1_camel_Roda_
+    2300020: Spowith_f1_camel_vidro
+    3300000: Spowith_f1_camel
+    3300002: Spowith_f1_camel_cauda
+    3300004: Spowith_f1_camel_D1
+    3300006: Spowith_f1_camel_D2
+    3300008: Spowith_f1_camel_E1
+    3300010: Spowith_f1_camel_E2
+    3300012: Spowith_f1_camel_helix
+    3300014: Spowith_f1_camel_leme
+    3300016: Spowith_f1_camel_Roda
+    3300018: Spowith_f1_camel_Roda_
+    3300020: Spowith_f1_camel_vidro
+    4300000: Spowith_f1_camel
+    4300002: Spowith_f1_camel_cauda
+    4300004: Spowith_f1_camel_D1
+    4300006: Spowith_f1_camel_D2
+    4300008: Spowith_f1_camel_E1
+    4300010: Spowith_f1_camel_E2
+    4300012: Spowith_f1_camel_helix
+    4300014: Spowith_f1_camel_leme
+    4300016: Spowith_f1_camel_Roda
+    4300018: Spowith_f1_camel_Roda_
+    4300020: Spowith_f1_camel_vidro
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camelMat
+    second: {fileID: 2100000, guid: 6b08ad97223953d41af27fea10d229b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_D1Mat
+    second: {fileID: 2100000, guid: f2ecb2234d3bacd4e98172b09f7ad245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_D2Mat
+    second: {fileID: 2100000, guid: 6ad866e7d102e464aba9791db91e7c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_E1Mat
+    second: {fileID: 2100000, guid: e8875c4ba3a837c4187f5d411642ed58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_E2Mat
+    second: {fileID: 2100000, guid: b5f6059f0d869804f9b70535aca7818f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_RodaMat
+    second: {fileID: 2100000, guid: 7e172b9ceff278d4eb2dab48685ed860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_Roda_Mat
+    second: {fileID: 2100000, guid: 87f91bc94f06262419aa077dd123eb47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_caudaMat
+    second: {fileID: 2100000, guid: 54543479d0e7b924696e1be0376f0fa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_helixMat
+    second: {fileID: 2100000, guid: f29312c4e5c6fab428252d8e31e6247b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_lemeMat
+    second: {fileID: 2100000, guid: 3d20542609201db4788393b26602c474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spowith_f1_camel_vidroMat
+    second: {fileID: 2100000, guid: 7da8264079faf464c99f8c8df0f9074d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
